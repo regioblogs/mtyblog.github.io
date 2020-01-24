@@ -2,4 +2,4 @@
 
 Esto es tan solo experimento de un blog en github
 
-![Image description](images/mtyblog.jpg)
+![mtyblog](images/mtyblog.jpg)
