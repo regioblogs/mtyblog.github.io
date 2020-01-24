@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hola y bienvenidos al blog.  Edita el `index.md` para cambiar el contenido. Todas las paginas del blog, incluyendo est, usa [Markdown](https://guides.github.com/features/mastering-markdown/). Se pueden incluir imagenes:
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Esto es un titulo
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Puedes incluir enlaces, enlace a [link to mtyblog](https://www.mtyblog.com). Las publicaciones apareceran aqui. 
